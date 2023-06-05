@@ -6,7 +6,7 @@ Ark Industries will be a reference for automation in the history of technology.
 
 ## Bootstrap
 
-This page shows how to start using Bootstrap in the design of your webpage. <a href="https://getbootstrap.com/">Here</a> is the link for Bootstrap.
+This page shows how to start using Bootstrap in the design of your webpage by adding the links for the CSS and JavaScript files. <a href="https://getbootstrap.com/">Here</a> is the link for Bootstrap.
 
 ## Usage
 
